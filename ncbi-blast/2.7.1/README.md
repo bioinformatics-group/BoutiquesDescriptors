@@ -1,7 +1,7 @@
 # NCBI Blast 2.7.1
  - [x] [blast_formatter](https://github.com/ramou/BoutiquesDescriptors/blob/develop/ncbi-blast/2.7.1/blast_formatter.json)
  - [x] [blastdbcheck](https://github.com/ramou/BoutiquesDescriptors/blob/develop/ncbi-blast/2.7.1/blastdbcheck.json)
-  - The testing isn't great as there may be problems with the tool. [#4](https://github.com/ramou/BoutiquesDescriptors/issues/4)
+  - The testing isn't great as there may be problems with the tool.
  - [ ] [blastdbcmd](https://github.com/ramou/BoutiquesDescriptors/blob/develop/ncbi-blast/2.7.1/blastdbcmd.json)
  - [ ] [blastdbcp](https://github.com/ramou/BoutiquesDescriptors/blob/develop/ncbi-blast/2.7.1/blastdbcp.json)
  - [ ] [blastn](https://github.com/ramou/BoutiquesDescriptors/blob/develop/ncbi-blast/2.7.1/blastn.json)
